@@ -3,15 +3,15 @@ html {
   width: 100%;
 }
 body{ 
-background-image: url(../images/grungebackground.jpg);
-color:blue;
+background-image: url(../images/wooden-floor-background.jpg);
+color:black;
 font-family: 'Times New Roman', Times, serif;
 font-weight: bold;
 }
 header, h2{ 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: blue;
+  color: black;
 }
 p{
-  color:blue;
+  color:black;
 }
