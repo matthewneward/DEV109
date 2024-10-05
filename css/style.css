@@ -4,14 +4,14 @@ html {
 }
 body{ 
 background-image: url(../images/grungebackground.jpg);
-color:black;
+color:blue;
 font-family: 'Times New Roman', Times, serif;
 font-weight: bold;
 }
 header, h2{ 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: black;
+  color: blue;
 }
 p{
-  color:black;
+  color:blue;
 }
