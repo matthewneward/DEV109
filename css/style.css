@@ -4,14 +4,14 @@ html {
 }
 body{ 
 background-image: url(../images/wooden-floor-background.jpg);
-color:black;
+color:red;
 font-family: 'Times New Roman', Times, serif;
 font-weight: bold;
 }
 header, h2{ 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: black;
+  color:red;
 }
 p{
-  color:black;
+  color:red;
 }
