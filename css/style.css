@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 body{ 
-  background-image: url(../images/grungebackground.jpg);
+background-image: url(../images/grungebackground.jpg);
 color:black;
 font-family: 'Times New Roman', Times, serif;
 font-weight: bold;
